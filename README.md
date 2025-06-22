@@ -2,6 +2,8 @@
 
 A simple web application for taking and managing notes. This app allows users to add, view, and delete notes.
 
+![Screenshot](./image.png)
+
 ## Usage
 
 1. Open the `index.html` file in a web browser.
